@@ -85,7 +85,7 @@ That's why I like to make things that make a difference.
 ---
 
 ## 📊 Stats
-
+<details>
   <summary>&nbsp;&nbsp;<b>👾 My Github stats, 💥 Current Streak and 📢 Most Used Languages</summary>
   <br/>
 	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Anandu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anandhuRaveendran&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
@@ -100,6 +100,7 @@ That's why I like to make things that make a difference.
   </a>
 </p>
 <br />
+</details>
 
 
 ---
