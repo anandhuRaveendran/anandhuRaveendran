@@ -41,7 +41,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Blockchain from [Kerala Blockchain Academy](https://github.com/Kerala-Blockchain-Academy)
 - 📬 How to reach me: [anandhuraveendrank@gmail.com](mailto:anandhuraveendrank@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1Nr0sS8mrvGy-O85oALiIr3GwxRh-dY0_/view?usp=sharing).
+- 📝 [Resume](https://drive.google.com/file/d/1Q4t6C7S4DZD6loKZnB3K0HT_EEBKnv_f/view?usp=drive_link).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
