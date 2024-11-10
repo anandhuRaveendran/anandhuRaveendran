@@ -42,7 +42,7 @@ That's why I like to make things that make a difference.
   - Blockchain from [Kerala Blockchain Academy](https://github.com/Kerala-Blockchain-Academy)
 - 📬 How to reach me: [anandhuraveendrank@gmail.com](mailto:anandhuraveendrank@gmail.com)
 - 📝 [Resume](https://drive.google.com/file/d/1Q4t6C7S4DZD6loKZnB3K0HT_EEBKnv_f/view?usp=drive_link).
-- 💪 This is where I write, code and solve problems:
+- 💪 This is where I write, code and solve problems :
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/anandhuRaveendran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anandu" height="30" width="40" /></a>
